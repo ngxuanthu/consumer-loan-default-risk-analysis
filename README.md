@@ -20,6 +20,16 @@ The dashboard provides insights into:
 - Default rate by loan purpose
 - Interactive filtering by grade, interest band, and home ownership status
 
+## Data Preparation
+
+The original dataset was cleaned and transformed before visualization:
+
+- Removed missing and inconsistent values
+- Standardized categorical variables
+- Created interest rate bands (Low, Moderate, High, Very High)
+- Calculated default indicators and aggregated metrics
+- Prepared data for interactive Tableau analysis
+
 ## Key Insights
 
 ### Grade Risk Analysis
