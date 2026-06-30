@@ -4,7 +4,7 @@ An interactive Tableau dashboard analyzing consumer loan default patterns across
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Overview
 
