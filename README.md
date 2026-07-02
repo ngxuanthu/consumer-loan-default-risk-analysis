@@ -83,5 +83,5 @@ consumer-loan-default-risk-analysis/
 - Extend the analysis with additional borrower demographic features.
 
 ## Author
-Xuan Thu Nguyen
+Xuan Thu Nguyen  
 Aspiring Financial Data Analyst
