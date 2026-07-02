@@ -62,21 +62,17 @@ consumer-loan-default-risk-analysis/
 │
 ├── README.md
 ├── LICENSE
+├── dashboard.png
+│
 ├── data/
-│   └── loan_data.csv
+│   ├── financial_loan_clean.csv
+│   ├── data_understanding.ipynb
+│   ├── data_cleaning.ipynb
+│   └── feature_engineering.ipynb
 │
 ├── dashboard/
 │   ├── consumer_loan_dashboard.twb
-│   └── icons/
-│       ├── borrowers.png
-│       ├── defaults.png
-│       ├── default_rate.png
-│       ├── grade.png
-│       ├── interest_band.png
-│       └── home_ownership.png
-│
-└── images/
-    └── dashboard.png
+│   └── dashboard.png
 ```
 
 ## Future Improvements
